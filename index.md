@@ -7,7 +7,7 @@ img {
 </head>
 
 # Navid Boloorian
-![The man himself](navid-face.png)
+![The man himself](navid-face.png)<br>
 He is the ~~coolest~~ **snazziest** guy named Navid Boloorian within a one mile radius of *wherever* he happens to be located at any given time.
 
 How snazzy is he? Some people say:

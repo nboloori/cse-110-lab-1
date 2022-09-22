@@ -8,9 +8,9 @@ How snazzy is he? Some people say:
 Apart from his snazziness, Navid is a programmer that is well-versed in the world of web design. Experienced with React, HTML, CSS, vanilla JS, PHP (gasp), and SQL, he feels confident when tackling any task ahead of him.
 
 Here is a little snippet of some of his greatest work:
-'''
+```
 console.log("Hello world");
-'''
+```
 
 
 When he finishes up with web design, Navid hopes to move onto augmented reality. He dreams of a world with state-of-the-art AR glasses that, instead of taking away from reality like phones do, enhance it. Killer tagline: "[insert AR company name]: **_enhance reality_**." He asks that you do not steal that.
@@ -22,8 +22,7 @@ With everyone adopting his glasses, Navid's goals are to:
 
 #### Interests
 
-Although he loves programming, Navid finds his true passion through stand up comedy. So far his career is going
-# [...](#terribly)
+Although he loves programming, Navid finds his true passion through stand up comedy. So far his career is [going...](#terribly)
 
 Always keeping up with current events, Navid can be found browsing the latest, earth-shattering news from [the most reliable sources](https://www.theonion.com/).
 

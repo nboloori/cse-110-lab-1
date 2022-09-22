@@ -18,10 +18,12 @@ When he finishes up with web design, Navid hopes to move onto augmented reality.
 With everyone adopting his glasses, Navid's goals are to:
 - [ ] Achieve world domination
 - [ ] A second thing
+- [x] Be snazzy
 
 #### Interests
 
-Although he loves programming, Navid finds his true passion through stand up comedy. So far his career is going[...](#terribly)
+Although he loves programming, Navid finds his true passion through stand up comedy. So far his career is going
+# [...](#terribly)
 
 Always keeping up with current events, Navid can be found browsing the latest, earth-shattering news from [the most reliable sources](https://www.theonion.com/).
 

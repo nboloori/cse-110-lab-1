@@ -1,3 +1,11 @@
+<head>
+<style>
+img {
+    width: 300px;
+}
+</style>
+</head>
+
 # Navid Boloorian
 ![The man himself](navid-face.png)
 He is the ~~coolest~~ **snazziest** guy named Navid Boloorian within a one mile radius of *wherever* he happens to be located at any given time.
@@ -53,3 +61,4 @@ Navid fears:
 
 ## Terribly
 ### He should definitely keep his day job
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
